@@ -4,3 +4,8 @@
 
 ### the source code here is taken from this repository : 
 https://github.com/Cledersonbc/tic-tac-toe-minimax
+
+
+### the game can be played from this link : https://drahem.github.io/tic-tac-toe/ 
+
+
